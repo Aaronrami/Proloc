@@ -13,6 +13,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js" ></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Proloc</title>
   </head>
   <body>
     <table class="table table-inverse">
