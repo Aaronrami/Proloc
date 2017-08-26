@@ -13,7 +13,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js" ></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <title>Prolog</title>
+    <title>Proloc</title>
   </head>
   <body>
     <div class="container">
